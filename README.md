@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I love cats so much. Cecil is a cat. I love Cecil.
